@@ -18,7 +18,7 @@ BEGIN: Basketball-Spiel: Beschreibung des Codeblocks
 Author: Fabian Vogt (s0570800)
 
 */
-<<<MY CODE>>>
+MY CODE
 /*
   
 END: Basketball-Spiel: Beschreibung des Codeblocks
