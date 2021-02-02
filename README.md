@@ -11,13 +11,18 @@ https://github.com/bcedra/BasketballHallOpenGL
 Ich habe die Kamerasteuerung angepasst, sodass man die Sicht eines Basketballspielers annimmt. Außerdem habe ich einen Ball eigebaut und ihn mit Textur, Fliegkräften und Gravitation versorgt. Das Blender-Projekt für den Ball habe ich kostenlos im Internet gefunden.
 
 Ich habe alle Codestücke, die von mir stammen, in einen Kommentarblock nach folgendem Schema gekapselt:
+
 /*
+
 BEGIN: Basketball-Spiel: Beschreibung des Codeblocks
 Author: Fabian Vogt (s0570800)
+
 */
-<MY CODE>
+<<<MY CODE>>>
 /*
+  
 END: Basketball-Spiel: Beschreibung des Codeblocks
+
 */
 
 ## Steuerung
