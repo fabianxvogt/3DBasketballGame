@@ -12,18 +12,13 @@ Ich habe die Kamerasteuerung angepasst, sodass man die Sicht eines Basketballspi
 
 Ich habe alle Codestücke, die von mir stammen, in einen Kommentarblock nach folgendem Schema gekapselt:
 
-/*
+//BEGIN: Basketball-Spiel: Beschreibung des Codeblocks
+//Author: Fabian Vogt (s0570800)
 
-BEGIN: Basketball-Spiel: Beschreibung des Codeblocks
-Author: Fabian Vogt (s0570800)
-
-***/
 MY CODE
-/***
   
-END: Basketball-Spiel: Beschreibung des Codeblocks
+//END: Basketball-Spiel: Beschreibung des Codeblocks
 
-*/
 
 ## Steuerung
 - W = Vorwärts gehen
