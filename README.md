@@ -17,9 +17,9 @@ Ich habe alle Codestücke, die von mir stammen, in einen Kommentarblock nach fol
 BEGIN: Basketball-Spiel: Beschreibung des Codeblocks
 Author: Fabian Vogt (s0570800)
 
-**/
+***/
 MY CODE
-/**
+/***
   
 END: Basketball-Spiel: Beschreibung des Codeblocks
 
